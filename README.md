@@ -27,6 +27,11 @@ We would love to see your Operator added to this collection. We currently use au
 
 Some APIs versions are deprecated and are OR will no longer be served. See https://redhat-openshift-ecosystem.github.io/operator-pipelines/#important-notice
 
+Please, make sure you check the following announcements:
+
+[How to deal with removal of v1beta1 CRD removals in Kubernetes 1.22 / OpenShift 4.9
+Kubernetes API removals on 1.25/1.26 and Openshift 4.12/4.13 might impact your Operator. How to deal with it?](https://github.com/redhat-openshift-ecosystem/community-operators-prod/discussions/1182)
+
 ## Reporting Bugs
 
 Use the issue tracker in this repository to report bugs.
